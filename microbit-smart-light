@@ -1,1 +1,35 @@
+# Micro:bit Smart Light
 
+## Overview
+This activity introduced students to basic IoT concepts using a microcontroller and a light sensor.
+
+Students built a simple smart lighting system that reacts to changes in surrounding light.
+
+## Target learners
+- Ages 12–14
+
+## Objective
+- Understand sensors and outputs
+- Learn basic coding logic
+- Build confidence in electronics
+
+# Materials
+- BBC Micro:bit
+- Light sensor
+- LEDs
+- Jumper wires
+- Breadboard
+- USB cable
+
+# Learning Outcomes
+
+Students were able to:
+- understand how sensors detect changes
+- use simple coding blocks
+- test and troubleshoot their circuits
+- apply logic to real-world problems
+
+# Activity Flow
+
+## Duration
+2 hours
